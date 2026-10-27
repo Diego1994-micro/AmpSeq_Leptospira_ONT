@@ -1,4 +1,4 @@
-AmpSeq Nanopore Consensus Pipeline
+AmpSeq Nanopore Consensus Pipeline for Leptospira
 
 This Snakemake pipeline analyzes Oxford Nanopore (ONT) AmpSeq reads from Leptospira samples. It aligns reads to a reference genome, identifies SNPs, and produces consensus base calls for selected genomic regions.
 
